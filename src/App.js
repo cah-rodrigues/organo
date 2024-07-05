@@ -8,7 +8,7 @@ function App() {
 
   const times = [
     {
-      nome: 'Programação',
+      nome: 'Back-End',
       corPrimaria: '#57C278',
       corSecundaria: '#D9F7E9'
     },
@@ -18,12 +18,12 @@ function App() {
       corSecundaria: '#E8F8FF'
     },
     {
-      nome: 'Data Science',
+      nome: 'FullStack',
       corPrimaria: '#A6D157',
       corSecundaria: '#F0F8E2'
     },
     {
-      nome: 'Devops',
+      nome: 'Social Media',
       corPrimaria: '#E06B69',
       corSecundaria: '#FDE7E8'
     },
@@ -38,7 +38,7 @@ function App() {
       corSecundaria: '#FFF5D9'
     },
     {
-      nome: 'Inovação e Gestão',
+      nome: 'Membros Fundadores',
       corPrimaria: '#FF8A29',
       corSecundaria: '#FFEEDF'
     }
